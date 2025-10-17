@@ -7,3 +7,21 @@ p {
 em strong {
     color: #0d8eb6 ;
 }
+h1 {
+    text-align: center
+}
+p {
+    text-align: center;
+}
+#paragrafo2{
+    font-size: 20px
+}
+#foto1{
+    width: 100%
+}
+#foto2{
+    width: 100%
+}
+#foto3{
+    width: 100%
+}
